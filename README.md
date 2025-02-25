@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammed Ameen 👋  
 
-## I'm a Developer   ![Animated](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
+## I'm a Developer 
 
 🌱 I’m currently learning anything new.  
 🏆 2025 Goals: Build amazing projects and improve my skills.  
