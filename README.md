@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning anything new.  
 🏆 2025 Goals: Build amazing projects and improve my skills.  
-📫 How to reach me? [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/muhammed-ameen22/))  
+📫 How to reach me? [LinkedIn]([https://www.linkedin.com/in/muhammed-ameen22/])  
 
 ### 🌍 Connect with me:  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)]([https://github.com/Muhammed-Ameen-22/])  
